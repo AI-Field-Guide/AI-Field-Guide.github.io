@@ -16,6 +16,12 @@ An open programme for learning about AI: how it works, what it changes, and how 
 <p>Four weeks on who governs AI and how: risks, US–China geopolitics, the tools of policymakers, and the EU AI Act with a Dutch focus.</p>
 </a>
 
+<a class="module" href="https://aiforactualwork.com/">
+<div class="tag live">● Available · external, free</div>
+<h3>AI for Actual Work</h3>
+<p>Practical AI skills, from your first prompt to shipped projects: Basics, Decision Models, Harnesses, AI-Native Engineering, Software Factories. Free, also in Dutch. By Remote.com.</p>
+</a>
+
 <div class="module planned">
 <div class="tag soon">Planned</div>
 <h3>AI Fundamentals</h3>

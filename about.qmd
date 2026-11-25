@@ -16,6 +16,7 @@ title: "About"
 | Module | Status | Repository |
 |---|---|---|
 | [AI Governance](https://ai-field-guide.github.io/ai-governance/) | Available | [ai-governance](https://github.com/AI-Field-Guide/ai-governance) |
+| [AI for Actual Work](https://aiforactualwork.com/) | Available (external, free, by Remote.com) | |
 | AI Fundamentals | Planned | |
 | Technical AI Safety | Planned | |
 | AI in Society | Planned | |
