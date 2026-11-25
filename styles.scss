@@ -1,0 +1,20 @@
+/*-- scss:defaults --*/
+$primary: #1f4e5f;
+$font-size-root: 17px;
+
+/*-- scss:rules --*/
+.hero { max-width: 760px; margin: 2rem auto 1.5rem; }
+.hero h1 { font-size: 2.4rem; }
+.hero p { font-size: 1.15rem; opacity: .85; }
+.modules { max-width: 1000px; margin: 0 auto 3rem; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; }
+.module {
+  display: block; padding: 1.25rem 1.4rem; border-radius: .75rem; text-decoration: none; color: inherit;
+  border: 1px solid rgba(127,127,127,.3);
+}
+a.module:hover { border-color: $primary; }
+.module .tag { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; font-weight: 600; }
+.module .tag.live { color: #2e8b57; }
+.module .tag.soon { opacity: .6; }
+.module h3 { margin: .35rem 0 .5rem; font-size: 1.25rem; }
+.module p { margin: 0; font-size: .97rem; opacity: .85; }
+.module.planned { opacity: .7; }

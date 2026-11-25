@@ -1,0 +1,36 @@
+---
+title: ""
+pagetitle: "AI Field Guide"
+---
+
+::: {.hero}
+# AI Field Guide
+
+An open programme for learning about AI: how it works, what it changes, and how we govern it. Safety is one topic among several. Each module stands on its own, built around primary sources, with every link backed up.
+:::
+
+::: {.modules}
+<a class="module" href="https://ai-field-guide.github.io/ai-governance/">
+<div class="tag live">● Available</div>
+<h3>AI Governance</h3>
+<p>Four weeks on who governs AI and how: risks, US–China geopolitics, the tools of policymakers, and the EU AI Act with a Dutch focus.</p>
+</a>
+
+<div class="module planned">
+<div class="tag soon">Planned</div>
+<h3>AI Fundamentals</h3>
+<p>How modern AI systems work: data, training, models and their limits. No maths background required.</p>
+</div>
+
+<div class="module planned">
+<div class="tag soon">Planned</div>
+<h3>Technical AI Safety</h3>
+<p>Alignment, evaluations, interpretability and monitoring: the technical side of making AI systems safe.</p>
+</div>
+
+<div class="module planned">
+<div class="tag soon">Planned</div>
+<h3>AI in Society</h3>
+<p>Work, education, information and power: what AI changes in everyday life and institutions.</p>
+</div>
+:::

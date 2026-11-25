@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "AI Field Guide"
+  site-url: https://ai-field-guide.github.io/
+  description: "An open programme for learning about AI: how it works, what it changes, and how we govern it."
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Modules
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/AI-Field-Guide
+  page-footer:
+    left: "AI Field Guide"
+    right: "[GitHub](https://github.com/AI-Field-Guide)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [darkly, styles.scss]
+    page-layout: full

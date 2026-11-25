@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+**AI Field Guide** is an open programme for learning about AI. It's organised as independent **modules**, and each one is its own project with its own site and repository, so you can take one without the others.
+
+## Principles
+
+- **Primary sources first:** laws, official strategies, papers and lab documents, so you can check claims yourself.
+- **Every link backed up:** each reading links to its source and to an archived copy.
+- **Standalone modules:** start anywhere.
+- **Open:** all content is on [GitHub](https://github.com/AI-Field-Guide). Corrections and suggestions are welcome as issues or pull requests.
+
+## Modules
+
+| Module | Status | Repository |
+|---|---|---|
+| [AI Governance](https://ai-field-guide.github.io/ai-governance/) | Available | [ai-governance](https://github.com/AI-Field-Guide/ai-governance) |
+| AI Fundamentals | Planned | |
+| Technical AI Safety | Planned | |
+| AI in Society | Planned | |
+
+## Adding a module
+
+Each module is a separate Quarto website repository in the organisation. Copy the structure of `ai-governance`, then add a card on the [home page](https://github.com/AI-Field-Guide/AI-Field-Guide.github.io/blob/main/index.qmd).
